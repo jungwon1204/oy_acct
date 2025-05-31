@@ -11,8 +11,8 @@ const studentData = {
   "20230125_이영희": {
     id: "20230125@school.edu",
     pw: "lee0912"
-  }
-    "20230126_민정원": {
+  },
+  "20230126_민정원": {
     id: "20230126@school.edu",
     pw: "jungwon123"
   }
