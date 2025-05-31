@@ -12,7 +12,10 @@ const studentData = {
     id: "20230125@school.edu",
     pw: "lee0912"
   }
-};
+    "20230126_민정원": {
+    id: "20230126@school.edu",
+    pw: "jungwon123"
+  }
 
 document.getElementById("searchBtn").addEventListener("click", function () {
   const studentId = document.getElementById("studentId").value.trim();
