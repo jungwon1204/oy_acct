@@ -16,7 +16,7 @@ const studentData = {
     id: "20230126@school.edu",
     pw: "jungwon123"
   }
-
+}
 document.getElementById("searchBtn").addEventListener("click", function () {
   const studentId = document.getElementById("studentId").value.trim();
   const studentName = document.getElementById("studentName").value.trim();
